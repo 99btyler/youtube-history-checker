@@ -1,7 +1,7 @@
 {
 	"name": "youtube-history-checker",
 	"version": "1.0",
-	"description": "Easily see if you have already watched a YouTube video",
+	"description": "Chrome extension that helps you easily start searching for a YouTube video in your history",
 	"permissions": ["declarativeContent"],
 	"background": {
 		"scripts": ["background.js"],
