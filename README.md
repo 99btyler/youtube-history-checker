@@ -1,2 +1,2 @@
 # youtube-history-checker
-Easily see if you have already watched a YouTube video
+Chrome extension that helps you easily start searching for a YouTube video in your history
