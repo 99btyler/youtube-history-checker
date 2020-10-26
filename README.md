@@ -1,5 +1,5 @@
 # youtube-history-checker
-Chrome extension that helps you easily start searching for a YouTube video in your history
+Personal tool Chrome extension that helps search for a YouTube video in history
 
 # Using this yourself
 1. Have Google Chrome
