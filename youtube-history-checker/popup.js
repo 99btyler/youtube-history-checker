@@ -1,4 +1,3 @@
-
 document.getElementById("search").onclick = function(element) {
 
 	document.getElementById("input").select();
