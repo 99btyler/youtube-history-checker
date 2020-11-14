@@ -1,9 +1,11 @@
 document.getElementById("search").onclick = function(element) {
 
-	document.getElementById("input").select();
-	document.execCommand("copy");
-	alert("Text copied to clipboard. Click OK to open history, then paste text in the \"search watch history\"");
+	if (confirm("Copy text to clipboard and open the \"search watch history\" page?")) {
 
-	window.open("https://www.youtube.com/feed/history");
+		document.getElementById("input").select();
+		document.execCommand("copy");
+		window.open("https://www.youtube.com/feed/history");
+		
+	}
 
 };
