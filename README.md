@@ -1,5 +1,5 @@
 # youtube-history-checker
-![youtube-history-checker gif](https://i.imgur.com/8PaRlgS.gif)
+![youtube-history-checker gif](https://i.imgur.com/pugGxnx.gif)
 
 Chrome extension that helps you start searching for a YouTube video in history
 
