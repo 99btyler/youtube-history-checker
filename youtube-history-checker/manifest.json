@@ -1,6 +1,6 @@
 {
 	"name": "youtube-history-checker",
-	"version": "1.0",
+	"version": "1",
 	"description": "Chrome extension that helps you start searching for a YouTube video in history",
 	"permissions": ["declarativeContent"],
 	"background": {
