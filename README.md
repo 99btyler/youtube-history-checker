@@ -4,7 +4,7 @@
 # Getting Started
 Get this project set up locally
 ### Prerequisites
-* Google Chrome
+* Have Google Chrome
 ### Setting up
 * Clone this repository
 * Using a text editor, open (repository)/youtube-history-checker
