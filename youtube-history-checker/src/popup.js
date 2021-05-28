@@ -1,4 +1,4 @@
-document.getElementById("search").onclick = function(element) {
+document.getElementById("copy").onclick = function(element) {
 
 	document.getElementById("input").select();
 	document.execCommand("copy");
