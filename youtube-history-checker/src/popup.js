@@ -1,3 +1,4 @@
+
 document.getElementById("copy").onclick = function(element) {
 
 	document.getElementById("input").select();
